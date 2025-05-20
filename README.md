@@ -20,4 +20,4 @@ Este proyecto es una aplicación web interactiva desarrollada con **Streamlit**,
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Frencher3000/Proyecto_sprint_7.git
+   git clone https://github.com/Frencher3000/Proyecto_Sprint_siete.git
